@@ -30,7 +30,26 @@ The dashboard focuses on presenting data through meaningful KPIs, interactive vi
 ### Dashboard Preview
 
 ### Project File
-Power BI dashboard file: dashboard1.pbix
+
+## Dashboard 2 – Super Store Sales Dashboard
+
+An interactive Power BI dashboard developed to analyze Super Store sales performance, profitability, product categories, customer segments, regional performance, payment methods, and shipping modes.
+
+### Key Areas of Analysis
+
+- Sales, Profit, and Quantity KPIs
+- Regional and state-level performance
+- Category and sub-category analysis
+- Customer segment analysis
+- Payment mode analysis
+- Shipping mode analysis
+- Monthly sales and profit trends
+- Geographical sales analysis
+- Interactive filtering and data exploration
+
+### Tools & Technologies
+
+Power BI | DAX | Power Query | Data Modeling | Data Visualization
 
 
 
