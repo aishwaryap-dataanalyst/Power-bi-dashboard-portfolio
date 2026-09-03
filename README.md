@@ -49,8 +49,7 @@ An interactive Power BI dashboard developed to analyze Super Store sales perform
 
 ### Tools & Technologies
 
-
-## Dashboard 2 - HR Analytics Dashboard
+## Dashboard 3 - HR Analytics Dashboard
 
 An interactive HR Analytics Dashboard developed using Microsoft Power BI to analyze employee attrition, workforce demographics, salary distribution, job roles, and employee satisfaction.
 
@@ -86,14 +85,6 @@ The dashboard provides a consolidated view of key HR metrics and helps identify 
 ## 🎯 Objective
 
 To transform HR data into an interactive dashboard that provides meaningful insights into employee attrition and workforce patterns, supporting data-driven HR decision-making.
-
-
-
-
-
-
-
-
 
 
 
