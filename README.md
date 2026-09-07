@@ -88,9 +88,31 @@ To transform HR data into an interactive dashboard that provides meaningful insi
 
 
 
+## Dashboard 4 – Blinkit Sales Dashboard
 
+An interactive Power BI dashboard developed to analyze Blinkit sales performance, product categories, outlet characteristics, customer ratings, and overall business trends.
+
+
+### Key Areas of Analysis
+
+- Total Sales, Average Sales, and Number of Items KPIs
+- Average Customer Rating Analysis
+- Sales by Item Type
+- Sales by Fat Content
+- Outlet Establishment Year Analysis
+- Outlet Size Analysis
+- Outlet Location Analysis
+- Outlet Type Analysis
+- Product and Outlet Performance
+- Interactive Filtering and Data Exploration
+- 
+
+### Tools & Technologies
 
 Power BI | DAX | Power Query | Data Modeling | Data Visualization
+
+
+
 
 
 
