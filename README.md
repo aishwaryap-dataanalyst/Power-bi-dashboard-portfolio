@@ -112,9 +112,3 @@ An interactive Power BI dashboard developed to analyze Blinkit sales performance
 Power BI | DAX | Power Query | Data Modeling | Data Visualization
 
 
-
-
-
-
-
-The Power BI `.pbix` file is included in this repository for reference.
