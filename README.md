@@ -112,3 +112,59 @@ An interactive Power BI dashboard developed to analyze Blinkit sales performance
 Power BI | DAX | Power Query | Data Modeling | Data Visualization
 
 
+
+## Dashboard 5 - IPL Analytics Dashboard
+
+📊 Project Overview
+
+This project is an IPL Analytics Dashboard created using Microsoft Power BI to analyze Indian Premier League match and player performance data.
+
+The dashboard provides interactive insights into player performance, team performance, runs, wickets, boundaries, toss decisions, and match statistics.
+
+### Key Areas of Analysis
+🎯 Key KPIs
+- Total Runs
+- Total Wickets
+- Total Sixes
+- Total Fours
+- Total Matches
+- Average Runs
+- Player Performance
+
+📈 Dashboard Insights
+
+- Player-wise run analysis
+- Season-wise performance
+- Team performance analysis
+- Runs and wickets comparison
+- Sixes and fours analysis
+- Toss decision analysis
+- Match and season trends
+- Interactive player and season filtering
+
+🔍 Interactive Features
+
+The dashboard includes slicers for:
+- Season
+- Player
+
+
+### Tools & Technologies
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+
+📁 Files
+
+- "Dashboard 5.pbix" – Power BI dashboard file
+- "Dashboard5.1 screenshot.png" – Dashboard preview
+- "Dashboard5.2 screenshot.png" – Dashboard preview
+
+👩‍💻 Author
+
+Aishwarya Patil
+
+Data Analyst | SQL | Power BI | Python | Business Intelligence
+
