@@ -105,7 +105,6 @@ An interactive Power BI dashboard developed to analyze Blinkit sales performance
 - Outlet Type Analysis
 - Product and Outlet Performance
 - Interactive Filtering and Data Exploration
-- 
 
 ### Tools & Technologies
 
@@ -158,9 +157,9 @@ The dashboard includes slicers for:
 
 📁 Files
 
-- "Dashboard 5.pbix" – Power BI dashboard file
-- "Dashboard5.1 screenshot.png" – Dashboard preview
-- "Dashboard5.2 screenshot.png" – Dashboard preview
+- "dashboard5.pbix" – Power BI dashboard file
+- "dashboard5_page1 screenshot.png" – Dashboard preview
+- "dashboard55_page2 screenshot.png" – Dashboard preview
 
 👩‍💻 Author
 
