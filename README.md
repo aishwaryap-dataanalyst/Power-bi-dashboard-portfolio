@@ -161,9 +161,58 @@ The dashboard includes slicers for:
 - "dashboard5_page1 screenshot.png" – Dashboard preview
 - "dashboard55_page2 screenshot.png" – Dashboard preview
 
+## Dashboard 6 -Olympic Games Analytics Dashboard 🏅
+
+📊 Project Overview
+
+This Power BI dashboard provides an overview of Olympic Games medal and athlete statistics. It analyzes medals by country, sport, age group, and individual athletes to highlight overall Olympic performance.
+
+📌 Key KPIs
+
+- Total Medals: 39,783
+- Gold Medals: 13,372
+- Silver Medals: 13,116
+- Bronze Medals: 13,295
+- Total Athletes: 135,571
+
+📈 Dashboard Insights
+
+- 🌍 Medals by Country – Geographic view of Olympic medal distribution.
+- 🏃 Top 5 Sports – Sports with the highest number of medals.
+- 🥇 Medals by Country – Comparison of Gold, Silver, and Bronze medals.
+- 🏅 Gold Medal Analysis – Gold medal distribution across leading countries.
+- 👥 Total Medals by Age Group – Medal distribution across different age groups.
+- ⭐ Top 5 Athletes – Athletes with the highest total medal counts.
+- 🎛️ Interactive Filters – Year, Country, Medal, Gender, Sport, and Age Group.
+
+🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning & Transformation
+- Data Visualization
+
+🎯 Key Features
+
+- Interactive slicers
+- KPI cards
+- Country-level medal analysis
+- Sport and athlete comparisons
+- Age-group analysis
+- Interactive dashboard design
+
+📁 Project Files
+
+- "dashboard6.pbix" – Power BI dashboard file
+- "dashboard6.png" – Dashboard preview
+
+📌 Project Goal
+
+The goal of this project is to demonstrate Power BI dashboard development, data analysis, visualization, and interactive reporting using Olympic Games data.
+
 👩‍💻 Author
 
 Aishwarya Patil
-
 Data Analyst | SQL | Power BI | Python | Business Intelligence
 
