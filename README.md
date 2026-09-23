@@ -211,6 +211,123 @@ This Power BI dashboard provides an overview of Olympic Games medal and athlete 
 
 The goal of this project is to demonstrate Power BI dashboard development, data analysis, visualization, and interactive reporting using Olympic Games data.
 
+## Dashboard 7 - Mediterranean Camera Company Sales Analysis
+
+An interactive Power BI dashboard designed to analyze sales, profitability, buyer types, products, and discount performance for Mediterranean Camera Company.»
+
+📌 Project Overview
+
+This project presents an interactive Power BI sales and profitability dashboard built to provide a consolidated view of business performance and enable deeper analysis across product, buyer type, country, time, and discount dimensions.
+
+The report is organized into two analytical pages:
+
+- Overview – Executive-level summary of sales and profitability performance
+- Detailed View – Deeper analysis of product performance, sales trends, and units sold
+
+🎯 Business Objectives
+
+The dashboard was designed to answer key business questions such as:
+
+- How are gross sales, net sales, costs, and profit performing?
+- How does sales performance change over time?
+- Which buyer types contribute most to net sales?
+- How does Return on Sales vary across buyer types and discount bands?
+- Which countries contribute to net sales?
+- Which products contribute most to profit and units sold?
+- How does product performance change throughout the year?
+
+📊 Key Performance Indicators
+
+- Total Gross Sales: 99.37M
+- Total Cost: 79M
+- Total Profit: 13.02M
+- Total Net Sales: 92.31M
+- Profit Margin: 14.10%
+
+📈 Dashboard Pages
+
+1. Overview
+
+The Overview page provides a high-level view of business performance through:
+
+- Total Gross Sales
+- Total Cost
+- Total Profit
+- Total Net Sales
+- Profit Margin
+- Net Sales by Month and Quarter
+- Profit by Month
+- Net Sales by Country
+- Net Sales by Buyer Type
+- Return on Sales by Buyer Type
+- Return on Sales across Discount Bands
+
+2. Detailed View
+
+The Detailed View focuses on product and time-based analysis, including:
+
+- Net Sales YTD by Month
+- Total Units Sold by Product
+- Profit by Product
+- Decomposition Tree for interactive drill-down analysis
+
+The Decomposition Tree enables users to explore Total Units Sold across multiple dimensions, including weekday, day, and product.
+
+🎛️ Interactive Filters
+
+The dashboard includes interactive slicers for:
+
+- Month Name
+- Product
+- Buyer Type
+- Country
+- Discount Band
+
+These filters allow users to dynamically explore different segments of the business.
+
+🔎 Key Insights
+
+- The dashboard reports 99.37M in Total Gross Sales and 92.31M in Total Net Sales.
+- Total Profit is 13.02M, with a calculated Profit Margin of 14.10%.
+- Buyer types show different levels of contribution to Net Sales and Return on Sales.
+- Return on Sales varies across different Discount Bands.
+- Monthly analysis highlights changes in Net Sales and Profit throughout the year.
+- Product-level analysis provides visibility into Profit and Units Sold performance.
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Interactive Data Visualization
+- Decomposition Tree
+
+💡 Skills Demonstrated
+
+- Data visualization
+- KPI development
+- DAX measures
+- Power Query
+- Data modeling
+- Time-based analysis
+- Profitability analysis
+- Sales performance analysis
+- Interactive dashboard design
+- Business-focused data storytelling
+
+📷 Dashboard Preview
+
+The repository includes screenshots of both dashboard pages for quick reference.
+
+📁 Project Files
+
+- dashboard7.pbix– Interactive dashboard file
+- dashboard7_page1_overview.png – Visual previews of the report
+- dashboard7_page2_detailedview.png - Visual previews of the report
+- README.md – Project documentation
+
+
 👩‍💻 Author
 
 Aishwarya Patil
