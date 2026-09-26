@@ -326,6 +326,118 @@ The repository includes screenshots of both dashboard pages for quick reference.
 - dashboard7_page1_overview.png – Visual previews of the report
 - dashboard7_page2_detailedview.png - Visual previews of the report
 - README.md – Project documentation
+  
+
+## Dashboard 8 - Banking Dashboard
+
+An interactive Power BI dashboard designed to analyze a bank's loan portfolio, customer segments, outstanding balances, and default risk.
+
+The dashboard provides a consolidated view of loan exposure, portfolio trends, customer segmentation, and credit risk, helping users identify areas that require closer monitoring.
+
+---
+📊 Dashboard Overview
+
+The dashboard contains two pages:
+
+1. Overview
+
+Provides a high-level view of the bank's overall loan portfolio and customer distribution.
+
+Key KPIs:
+
+- Total Loan Portfolio: 270M
+- Outstanding Balance: 89.20M
+- Default Rate: 12.67%
+- Customers: 30
+- Active Loans: 102
+
+Key Visuals:
+
+- Total Loan Portfolio by Month & Year
+- Total Loan Portfolio by Loan Type
+- Total Loan Portfolio by Age Bucket
+- Total Loan Portfolio by Customer Segment
+- Total Loan Portfolio by Income Band
+- Total Loan Portfolio by Loan Status
+
+Filters:
+
+- Year
+- Loan Status
+- Risk Category
+- Branch
+
+---
+2. Risk analysis View
+
+Provides deeper analysis of default risk, portfolio exposure, and outstanding balances.
+
+Key Visuals:
+
+- Total Loan Portfolio by Risk Bucket
+- Total Loan Portfolio by Risk Category
+- Default Rate by Loan Type
+- Default Rate by Occupation
+- Outstanding Balance by State
+
+---
+
+🎯 Business Questions
+
+This dashboard was designed to answer:
+
+- How much money has the bank lent?
+- How much loan balance is currently outstanding?
+- What is the overall default rate?
+- Which loan types have higher default rates?
+- Which occupations show higher default rates?
+- Where is the bank's outstanding loan exposure concentrated?
+- How is the portfolio distributed across risk categories?
+- How many loans are currently active?
+- How does the loan portfolio change over time?
+
+---
+
+🔍 Key Insights
+
+- The total loan portfolio is approximately 270M.
+- The outstanding balance is approximately 89.20M.
+- The overall default rate is 12.67%.
+- Personal Loans have the highest displayed default rate at approximately 26.92%.
+- Maharashtra has the highest outstanding balance among the displayed states.
+- The loan portfolio is distributed across different risk categories and risk buckets.
+- The monthly portfolio trend shows noticeable fluctuations over time.
+
+---
+
+🛠️ Tools & Technologies
+
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Interactive Slicers
+- Data Visualization
+
+---
+
+💡 Business Value
+
+The dashboard can help banking teams:
+
+- Monitor overall loan exposure
+- Track outstanding balances
+- Analyze default risk
+- Compare risk across loan products
+- Understand customer and income segments
+- Identify geographic concentrations of outstanding balances
+- Support data-driven portfolio and risk monitoring
+
+---
+
+🚀 Project Objective
+
+The objective of this project was to build an interactive Banking Loan Portfolio & Default Risk Dashboard that transforms loan and customer data into meaningful insights for portfolio monitoring, risk analysis, and business decision-making.
 
 
 👩‍💻 Author
