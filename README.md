@@ -440,6 +440,95 @@ The dashboard can help banking teams:
 The objective of this project was to build an interactive Banking Loan Portfolio & Default Risk Dashboard that transforms loan and customer data into meaningful insights for portfolio monitoring, risk analysis, and business decision-making.
 
 
+## Dashboard 7 -Supply Chain Dashboard
+
+Overview
+
+The Supply Chain Performance Dashboard is an interactive Power BI solution designed to provide a consolidated view of order fulfillment and delivery performance.
+
+The dashboard enables users to monitor key operational KPIs, analyze regional and warehouse-level performance, evaluate transportation delays, and identify monthly trends in supply chain efficiency.
+
+Business Objectives
+
+- Monitor overall order fulfillment and delivery performance
+- Measure On-Time, In-Full, and OTIF performance
+- Identify regional variations in delivery performance
+- Analyze warehouse-level delivery delays
+- Compare average delays across transportation modes
+- Track monthly OTIF performance trends
+- Compare ordered quantities with delivered quantities
+
+Key Performance Indicators
+
+KPI| Value
+Total Orders| 100
+OTIF %| 66%
+On-Time Delivery %| 67%
+In-Full Delivery %| 53%
+Average Delay| 0.95 hours
+
+Dashboard Analysis
+
+Regional OTIF Performance
+
+Analyzes OTIF performance across regions to identify differences in overall order fulfillment efficiency.
+
+Regional OT% vs IF% Comparison
+
+Compares On-Time (OT%) and In-Full (IF%) performance by region, providing visibility into the different dimensions of delivery performance.
+
+Monthly OTIF Trend
+
+Tracks OTIF performance over time to highlight monthly variations and changes in delivery efficiency.
+
+Average Delay by Warehouse
+
+Compares average delivery delays across warehouse locations to identify areas requiring operational attention.
+
+Average Delay by Transport Mode
+
+Evaluates average delays across transportation modes to provide insight into transportation-related performance.
+
+Ordered vs Delivered Quantity
+
+Compares monthly ordered and delivered quantities to highlight differences between planned demand and actual fulfillment.
+
+Interactive Features
+
+The dashboard includes interactive slicers for:
+
+- Region
+- Month & Year
+- Warehouse Location
+- Transport Mode
+
+Users can apply filters to analyze supply chain performance from different operational perspectives.
+
+Tools & Technologies
+
+- Power BI Desktop
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+
+Key Skills Demonstrated
+
+- KPI development and performance monitoring
+- DAX measure creation
+- Date and time-based analysis
+- Interactive dashboard development
+- Data modeling
+- Operational and supply chain analytics
+- Business-focused data visualization
+
+Business Value
+
+The dashboard transforms supply chain data into an interactive analytical view that can help stakeholders monitor delivery performance, identify delay patterns, compare operational performance across regions and transportation modes, and support data-driven improvement initiatives.
+
+Dashboard Preview
+dashboard9.png
+
 👩‍💻 Author
 
 Aishwarya Patil
