@@ -440,13 +440,11 @@ The dashboard can help banking teams:
 The objective of this project was to build an interactive Banking Loan Portfolio & Default Risk Dashboard that transforms loan and customer data into meaningful insights for portfolio monitoring, risk analysis, and business decision-making.
 
 
-## Dashboard 7 -Supply Chain Dashboard
+## Dashboard 9 -Supply Chain Dashboard
 
 Overview
 
-The Supply Chain Performance Dashboard is an interactive Power BI solution designed to provide a consolidated view of order fulfillment and delivery performance.
-
-The dashboard enables users to monitor key operational KPIs, analyze regional and warehouse-level performance, evaluate transportation delays, and identify monthly trends in supply chain efficiency.
+The Supply Chain Dashboard is an interactive Power BI solution designed to provide a consolidated view of order fulfillment and delivery performance.
 
 Business Objectives
 
@@ -527,7 +525,9 @@ Business Value
 The dashboard transforms supply chain data into an interactive analytical view that can help stakeholders monitor delivery performance, identify delay patterns, compare operational performance across regions and transportation modes, and support data-driven improvement initiatives.
 
 Dashboard Preview
-dashboard9.png
+
+- dashboard9.pbix– Interactive dashboard file
+- dashboard9.png – Visual previews of the report
 
 👩‍💻 Author
 
