@@ -614,6 +614,81 @@ Power BI | DAX | Power Query | Data Analysis | Financial Analysis | KPI Developm
 "Interactive dashboard file" : dashboard10.pbix
 "Finance Dashboard" : dashboard10_page1.png ,dashboard10_page2.png
 
+
+## Dashboard 11 – Customer churn dashboard
+
+Customer Churn Analysis Dashboard | Power BI
+
+Overview
+
+Customer churn refers to customers who stop using a company's products or services. This Power BI dashboard analyzes telecom customer data to understand who is leaving, what patterns are associated with churn, and which customer segments require closer attention.
+
+The dashboard converts customer-level data into interactive visualizations and business insights that can support customer retention analysis.
+
+🎯 Objective
+
+The main objective is to analyze churn across different customer characteristics and identify patterns that may help businesses understand and address customer attrition.
+
+📂 Dataset
+
+The dataset contains telecom customer information.
+
+📌 Key KPIs
+
+- Total Customers
+- Churn Customers
+- Churn Rate %
+- Churn Monthly Revenue
+
+📊 Dashboard Analysis
+
+The dashboard analyzes churn across:
+
+- Gender – comparison of churn rates between male and female customers
+- Contract Type – identification of churn patterns across contract categories
+- Payment Method – comparison of churn rates across payment methods
+- Internet Service – analysis of churn across service types
+- Monthly Charge – churn patterns across charge ranges
+- Tenure – comparison of customers who stayed vs. churned
+- Age Group – customer distribution and churn status across age groups
+- Risk Segment – customer segmentation by predefined business rules
+
+🎛️ Interactive Filters
+
+Users can dynamically explore the dashboard using:
+
+- Gender
+- Payment Method
+- Contract Type
+
+💡 Key Insights
+
+- Customers with monthly contracts churn the most.
+- New customers(0-12 Months) are at high risk.
+- Higher monthly charges increases churn probability.
+- Customers with different tenure levels exhibit different churn behavior.
+- Monthly charge and age groups provide additional perspectives for understanding churn.
+- Certain payment methods show higher churn trends
+
+Recommendations
+- Offer discount for high monthly charge users.
+- Improve Onboarding for new customers.
+- Convert customers to yearly Contract Type
+
+🛠️ Tools & Skills
+
+Power BI | Power Query | DAX | Data Cleaning | Data Visualization | Customer Segmentation | Business Analysis
+
+🎯 Conclusion
+
+This dashboard demonstrates how telecom customer data can be transformed into meaningful business insights. By understanding who churns and the patterns associated with churn, organizations can identify areas for deeper investigation and support more targeted customer-retention strategies.
+
+📸 Dashboard Preview
+
+"Interactive dashboard file" : dashboard11.pbix
+"Customer Churn Dashboard" : dashboard11.png
+
+
 👩‍💻 Author
 
 Aishwarya Patil
