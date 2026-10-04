@@ -689,6 +689,88 @@ This dashboard demonstrates how telecom customer data can be transformed into me
 "Customer Churn Dashboard" : dashboard11.png
 
 
+## Dashboard 12 – Sales Analytics Dashboard
+
+Sales Analytics Dashboard
+
+📌 Description
+
+The Sales Analytics Dashboard provides an interactive view of sales performance, customer behavior, and purchasing patterns.
+
+It helps analyze sales across product categories, age groups, gender, and customer types, while also tracking sales trends over time.
+
+🎯 Objective
+
+The objective of this dashboard is to:
+
+- Monitor overall sales performance
+- Understand customer purchasing behavior
+- Identify high-performing product categories
+- Analyze sales trends over time
+- Support data-driven business decisions
+
+📊 Key KPIs
+
+- Total Sales
+- Total Transactions
+- Total Customers
+- Average Order Value
+- Average Basket Size
+
+🎛️ Interactive Slicers
+
+- Month
+- Customer Type
+- Age Bucket
+- Gender
+- Product Category
+
+📈 Dashboard Visuals
+
+Sales by Product Category
+
+Column chart showing Total Sales by Product Category to identify the categories generating the highest sales.
+
+Sales by Gender
+
+Donut chart showing Total Sales by Gender to compare purchasing contribution across genders.
+
+Sales by Age Bucket
+
+Column chart showing Total Sales by Age Bucket to understand which age groups contribute most to sales.
+
+Customer Type
+
+Donut chart showing customer distribution by Customer Type using the count of Customer IDs.
+
+Sales Matrix
+
+Matrix showing Total Sales by Age Bucket and Product Category, helping compare product performance across different age groups.
+
+Monthly Sales Trend
+
+Line chart showing Total Sales by Month to identify sales trends and changes over time.
+
+
+🛠️ Tools Used
+
+- Power BI
+- DAX
+- Power Query
+- Data Visualization
+- Data Analysis
+
+📌 Key Takeaway
+
+The dashboard brings sales and customer data together in one place, making it easier to identify patterns, understand customers, and turn data into actionable business decisions.
+
+Project Files
+
+- dashboard12.pbix– Interactive dashboard file
+- dashboard12.png – Visual previews of the report
+- README.md – Project documentation
+
+
 👩‍💻 Author
 
 Aishwarya Patil
