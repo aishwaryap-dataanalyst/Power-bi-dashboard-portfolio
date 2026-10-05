@@ -760,6 +760,18 @@ Line chart showing Total Sales by Month to identify sales trends and changes ove
 - Data Visualization
 - Data Analysis
 
+Recommendations:
+
+- Convert One-Time Buyers: Around 69% of customers are one-time buyers. Use follow-up offers, loyalty rewards, and personalized discounts to encourage repeat purchases.
+
+- Address Seasonal Sales Dips: Sales show weaker periods around February–March and August–September. Run targeted promotions and seasonal campaigns during these periods to maintain consistent revenue.
+
+- Focus on Core Customer Segments: Customers aged 31–40 generate the highest sales, followed by the 41–50 group. Prioritize marketing efforts toward these high-value age segments.
+
+- Increase Basket Size Across Categories: Groceries generate the highest sales, while other categories contribute less. Use cross-selling and product bundles to encourage customers to purchase more items per transaction.
+
+- Personalize Offers by Demographics: Customers aged 31–40 show particularly strong demand for Home Decor, while older customers show higher demand for Groceries. Tailor promotions and product recommendations to these purchasing patterns.
+
 📌 Key Takeaway
 
 The dashboard brings sales and customer data together in one place, making it easier to identify patterns, understand customers, and turn data into actionable business decisions.
