@@ -783,8 +783,64 @@ Project Files
 - README.md – Project documentation
 
 
-👩‍💻 Author
+## Dashboard 14 –Heart Disease Analysis Dashboard
+​
+Welcome to the Heart Disease Analysis Dashboard repository! This project features a comprehensive Power BI dashboard designed to analyze heart disease mortality rates, survival trends, risk factors, and biometric indicators across different age brackets and demographics.  
+​
 
+📊 Dashboard Overview
+​The dashboard provides key health metrics and interactive visualizations to help understand patterns in heart disease patient data.  
+​
+Key Performance Indicators (KPIs)
+​Survival Rate: 67.9%  
+​Average Survival Age: 58.76 years  
+​Total Survivors: 203  
+​Total Deaths: 96  
+​Visualizations & Insights
+​Mortality Counts and Average Serum Creatinine by Age Group: Highlights mortality numbers alongside average serum creatinine levels broken down by age brackets (e.g., 40-50, 51-61, 61-70, 71+, and Below).  
+​Mortality & Ejection Fraction by Age Group: Illustrates mortality distribution alongside average ejection fraction percentages across different age cohorts.  
+​Survival Rate (%) Trend by Age Bracket: A line trend visualization mapping out the fluctuation of survival percentages across various age categories.  
+​Top Risk Factors Trends Across Age Brackets: An advanced flow/stream visualization tracking the shifting trends of primary risk factors across different age groups.  
+​
+Demographic Filters: Includes interactive filtering options such as Gender (All) to slice and dice data dynamically.  
+​
+
+🛠️ Features & Technologies
+​Tool: Microsoft Power BI  
+​Interactive Filtering: Global and page-level filters for custom demographic and clinical analysis.  
+​Data Metrics: Custom measures and calculated columns handling survival statistics, age grouping, serum creatinine, and ejection fraction analytics.  
+
+💡 Key Insights:
+
+-Peak Mortality Age (51–70): The highest number of deaths occurs in the 51–61 and 61–70 age groups.  
+​-Overall Survival: The total patient survival rate stands at 67.9%, with an average survival age of 58.76 years.  
+​-Elevated Biomarker in Seniors: Average serum creatinine reaches its highest level at 1.72 in the 71+ age bracket.  
+​-Sharp Survival Drop: Survival rate experiences a severe drop in the 71+ cohort, aligning with higher creatinine levels.  
+​-Younger Cohort Resilience: Patients in the "Below" age bracket maintain a strong 70.37% survival rate.  
+​-Lower Biomarker in Youth: Average serum creatinine is lowest at 1.07 in the "Below" age category.  
+​-Concentrated Risk Factors: Top risk factor trends heavily cluster in the 51 to 70 age range.  
+​-Consistent Ejection Fraction: Average ejection fraction stays fairly stable between 34.84% and 42.10% across groups.  
+​-Mortality Count Baseline: The 40–50 age group records a relatively lower mortality count of 11.  
+​-Demographic Slicing: Survival and mortality patterns vary dynamically when filtered by gender.  
+
+Recommendations:
+
+Here are 5 concise recommendations:
+
+​-Dual Kidney-Heart Screening: Routinely test serum creatinine in cardiac patients aged 60+ to catch renal risk early.  
+​-Target Ages 51–70: Focus preventive interventions on this cohort to curb peak mortality and risk factors.  
+​-Specialized Care for 71+: Build tailored treatment protocols for elderly patients facing severe survival drops.  
+​-Analyze Gender Trends: Use the Gender filter to identify disparities between male and female risk factors.  
+​-Automate Risk Flags: Set up clinical alerts for patients with rising serum creatinine levels (above 1.5).  
+
+📸 Dashboard Preview
+
+"Interactive dashboard file" : dashboard14.pbix
+"Heart Disease Analysis Dashboard" : dashboard14.png
+
+
+
+👩‍💻 Author
 Aishwarya Patil
 Data Analyst | SQL | Power BI | Python | Business Intelligence
 
