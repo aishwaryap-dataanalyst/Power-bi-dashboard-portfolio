@@ -782,16 +782,94 @@ Project Files
 - dashboard12.png – Visual previews of the report
 - README.md – Project documentation
 
+## Dashboard 13 – Hospital Emergency Room Dashboard | Power BI
 
-## Dashboard 14 –Heart Disease Analysis Dashboard
+ 
+📌 Project Overview
+
+The Hospital Emergency Room Dashboard is a comprehensive, multi-view Power BI solution designed to analyze patient visits, admissions, waiting times, referrals, and detailed patient demographics. It provides deep visibility into hospital operations, patient flow bottlenecks, and temporal activity patterns through interactive filtering.
+
+
+🧭 Dashboard Views & Navigation
+
+The report is structured into three dedicated interactive views to support both high-level operational analysis and granular patient record tracking:
+ * Monthly View: Focuses on monthly performance metrics, filtering operational trends by specific operating months (e.g., April 2023).
+ * Consolidated View: Aggregates multi-year historical data across a customizable date range (e.g., April 2023 – October 2024) for macro-level trend analysis.
+ * Patient Details View: Provides a granular, row-level breakdown table containing individual patient IDs, names, demographics, waiting times, and admission statuses.
+🎛️ Interactive Slicers
+ * Date Range Slider (Consolidated View): Dynamically filters the entire dashboard canvas across custom multi-month timelines.
+ * Month & Year Dropdown (Monthly View): Allows instant toggling between specific reporting periods to isolate monthly performance shifts.
+ * View Navigation Panel: Quick-access side buttons enabling seamless transition between Monthly View, Consolidated View, and Patient Details.
+
+   
+🎯 Objectives
+
+ * Track core operational KPIs including patient volume, wait times, and satisfaction scores.
+ * Analyze patient arrival heatmaps by day and hour to optimize hospital staffing.
+ * Evaluate wait time compliance against the 30-minute target benchmark.
+ * Break down patient demographics by age groups, gender, and racial distribution.
+ * Monitor department referral volumes and emergency admission rates.
+
+   
+📊 Key Performance Indicators (KPIs)
+
+ * Total Patients: 9K (9,216 total visits analyzed)
+ * Average Wait Time: 35.3 Minutes
+ * Satisfaction Score: 4.99 / 10
+ * Referred Patients: 4K patients
+ * Admission Status Split: 50.04% Admitted (4,612) vs. 49.96% Not Admitted (4,604)
+ * Wait Time Target Adherence: 59% seen within target (30 mins) vs. 41% target missed
+📈 Visualizations & Dashboard Insights
+ * No. of Patients by Day and Hour (Heatmap): Highlights peak operational pressure zones, showing high density during midday blocks (11:00–14:00) and evening hours (19:00–20:00).
+ * Percentage of Patients Seen within 30 Min (Donut Chart): Tracks target compliance, displaying that 41% of patients experience extended waiting delays.
+ * Percentage of Patients by Gender (Donut Chart): Shows the gender breakdown of incoming emergency visitors (57% female, 43% male).
+ * No. of Patients by Age Group (Column Chart): Illustrates an even distribution of patients across age buckets, ranging consistently from 1,056 to 1,200 patients per group.
+ * No. of Patients by Department Referral (Bar Chart): Ranks external and internal referrals, with General Practice (1.8K) and Orthopedics (1.0K) leading referral volumes outside unreferred visits (5.4K).
+ * No. of Patients by Race (Bar Chart): Breaks down patient volume by racial demographics (led by White at 2.6K and African American at 2.0K).
+ * Patient Details Table: A comprehensive tabular view displaying Patient ID, Full Name, Gender, Year/Quarter/Month/Day, Race, Wait Time, Department Referral, Age, and Admission Status.
+
+
+🛠️ Tools & Technologies
+
+ * Power BI Desktop: Report authoring, multi-page view structuring, and interactive layout design
+ * Power Query: ETL processes, data cleaning, and schema transformation
+ * DAX (Data Analysis Expressions): Calculated measures, aggregation logic, and KPI modeling
+ * Advanced Visuals: Custom matrix tables, donut charts, heatmaps, and slicer synchronization
+
+
+💡 Recommendations
+
+-Optimize Staff Allocation During Peak Demand Hours: Adjust clinical and administrative staffing schedules to align with high-volume patient intake windows (11:00 AM – 2:00 PM and 7:00 PM – 8:00 PM) to mitigate bottlenecking.  
+​-Improve Triage Efficiency and Reduce Delays: Establish expedited triage protocols to address long wait times and decrease the proportion of patients exceeding the 30-minute waiting threshold from 41%.  
+​-Streamline High-Volume Referral Pathways: Standardize and fast-track intake procedures for General Practice and Orthopedic departments, which represent the largest volume of patient referrals.  
+​-Enhance Weekend Operational Readiness: Increase shift coverage during high-density weekend hours, particularly Saturday afternoons, to prevent patient accumulation in the waiting area.  
+​-Elevate Patient Satisfaction Scores: Focus on reducing extended waiting periods, as patient satisfaction scores are directly correlated with throughput efficiency and waiting room experience.  
+​-Accelerate Non-Admitted Patient Discharge Protocols: Implement streamlined evaluation and discharge workflows for the ~50% of patients who do not require admission, freeing up emergency department capacity.  
+​-Ensure Equitable Resource Distribution Across Demographics: Maintain balanced clinical specialization and equipment across all age brackets, given the uniform volume distribution observed across age groups.  
+​-Adopt Predictive Shift Scheduling: Transition from static scheduling to data-driven workforce management by leveraging historical patient arrival heatmaps to forecast shift demand.  
+​-Strengthen Primary Care Integration: Establish clear post-visit guidance for unreferred walk-in patients (5.4K) to encourage appropriate primary care utilization and minimize non-emergent ER visits.  
+​-Implement Real-Time Wait-Time Alert Thresholds: Configure automated management alerts when average wait times exceed 35 minutes, enabling immediate operational interventions by floor supervisors.  
+
+📁 Project Type
+Healthcare Analytics | Business Intelligence | Data Visualization
+
+
+📸 Dashboard Preview
+"Interactive dashboard file" : dashboard13.pbix
+"Heart Disease Analysis Dashboard" : dashboard14_page1.png ,dashoard13_page2,dashoard13_page3.
+
+
+## Dashboard 14 – Heart Disease Analysis Dashboard
 ​
 Welcome to the Heart Disease Analysis Dashboard repository! This project features a comprehensive Power BI dashboard designed to analyze heart disease mortality rates, survival trends, risk factors, and biometric indicators across different age brackets and demographics.  
 ​
 
 📊 Dashboard Overview
+
 ​The dashboard provides key health metrics and interactive visualizations to help understand patterns in heart disease patient data.  
 ​
 Key Performance Indicators (KPIs)
+
 ​Survival Rate: 67.9%  
 ​Average Survival Age: 58.76 years  
 ​Total Survivors: 203  
@@ -837,7 +915,6 @@ Here are 5 concise recommendations:
 
 "Interactive dashboard file" : dashboard14.pbix
 "Heart Disease Analysis Dashboard" : dashboard14.png
-
 
 
 👩‍💻 Author
