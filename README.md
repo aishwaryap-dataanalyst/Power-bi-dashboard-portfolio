@@ -916,6 +916,49 @@ Here are 5 concise recommendations:
 "Interactive dashboard file" : dashboard14.pbix
 "Heart Disease Analysis Dashboard" : dashboard14.png
 
+## Dashboard 16 –Chocolate Sales Dashboard | Power BI
+
+📊 Project Overview
+
+An interactive Power BI dashboard analyzing chocolate sales, product performance, shipment trends, and country-wise sales distribution.
+
+🎯 Business Questions Answered
+
+- Which products generate the highest sales?
+- Which countries contribute the most to sales?
+- How do shipment volumes change over time?
+- What are the overall sales, boxes shipped, and product count?
+
+📈 Key Highlights
+
+- Sales performance KPIs
+- Top 5 products by sales
+- Country-wise sales and shipments
+- Monthly shipping trends
+- Interactive filters for country, product, sales person, and shipping period
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- DAX
+- Power Query
+
+📌 Business Recommendations
+
+- Focus on top-performing products.
+- Explore growth opportunities in lower-performing countries.
+- Investigate declining shipment trends.
+- Align inventory with monthly demand patterns.
+
+  📸 Dashboard Preview
+
+"Interactive dashboard file" : dashboard16.pbix
+"Chocolate Sales Dashboard" :dashboard16.png
+
+💡 Key Takeaway
+Turning sales data into actionable insights through interactive dashboards and business intelligence.
+
+Developed using Microsoft Power BI | Data Analytics & Business Intelligence Portfolio
 
 👩‍💻 Author
 Aishwarya Patil
